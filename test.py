@@ -1,8 +1,6 @@
 # from pybit.unified_trading import HTTP
 # import json
 
-# api_key = 'jZLYuiwPSzasbXUZp2'
-# api_secret = '6RW6LHgerTFvl1JUH6bM25epN5dDUhGJM9ZG'
 # symbol = 'BTCUSDT'
 # symbol = 'ARBUSDT'
 
